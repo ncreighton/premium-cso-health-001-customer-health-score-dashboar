@@ -1,0 +1,2 @@
+# premium-cso-health-001-customer-health-score-dashboar
+Professional customer-success-ops Notion template — without the professional price tag.  Pre-built databases, views, and formula fields — ready to duplicate and use. Fully documented: every section explained so you know exactly what to customize.  ## What's Included  - Customer Health Score Dashboard — fully configured and ready to use - Pre-built
